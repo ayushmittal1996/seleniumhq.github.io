@@ -1099,7 +1099,7 @@ Fills the entire screen, similar to pressing F11 in most browsers.
   {{< code-panel language="kotlin" >}}driver.manage().window().fullscreen(){{< / code-panel >}}
 {{< / code-tab >}}
 
-### TakeScreenshot
+### TakesScreenshot
 
 Used to capture screenshot for current browsing context. 
 The WebDriver endpoint [screenshot](https://www.w3.org/TR/webdriver/#dfn-take-screenshot) 
